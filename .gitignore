@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+data/interim/
+data/processed/
+models/
+catboost_info/
+ICU-Patient-Outcome-Analysis*/
